@@ -91,15 +91,11 @@ span{
     color: #3B82F6;
 }
 
-.main-img{
-    border-radius: 50%;
-}
-
 .main-img img{
-    position: relative;
-    width: 20vw;
+    width: 300px;
+    height: 300px;
     border-radius: 50%;
-    cursor: pointer;
+    object-fit: cover;
 }
 
 .icons-redes-sociais a{
