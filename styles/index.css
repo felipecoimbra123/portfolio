@@ -114,3 +114,43 @@ span{
     background-color: #3B82F6;
     box-shadow: 0 0 25px #3B82F6;
 }
+
+@media (max-width: 900px) {
+    .section-main {
+        flex-direction: column;
+        text-align: center;
+        gap: 3rem;
+    }
+
+    .main-img img {
+        width: 45vw;
+    }
+
+    .main-content {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    h1 {
+        font-size: 2.8rem;
+    }
+
+    p {
+        font-size: 1rem;
+        max-width: 90%;
+    }
+
+    .icons-redes-sociais {
+        display: flex;
+        justify-content: center;
+        margin-top: 1rem;
+    }
+
+    .icons-redes-sociais a {
+        width: 3.2rem;
+        height: 3.2rem;
+        font-size: 1.5rem;
+        margin: 1rem 0.7rem;
+    }
+}
