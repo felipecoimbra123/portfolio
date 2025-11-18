@@ -10,7 +10,7 @@
 body {
     background-color: #DCE3EB;
     font-family: 'Lato', sans-serif;
-    padding-top: 140px;
+    padding-top: 180px;
 }
 
 .header {
@@ -53,82 +53,42 @@ img {
     opacity: 0.7;
 }
 
-@media (max-width: 700px) {
-    img {
-        width: 110px;
-    }
-
-    .nav-links {
-        gap: 35px;
-    }
-
-    .nav-links a {
-        font-size: 18px;
-    }
+.projetos-section {
+    max-width: 1000px;
+    margin: 120px auto 50px;
+    padding: 0 20px;
 }
 
-.certificacoes {
-    padding: 5rem 9%;
-    background-color: #DCE3EB;
-}
-
-.titulo-certificacoes {
-    font-size: 3rem;
-    text-align: center;
-    margin-bottom: 3rem;
-    font-weight: 700;
-}
-
-.cert-grid {
+.repos-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 2.5rem;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 20px;
+    margin-top: 30px;
 }
 
-.cert-card {
-    background: white;
-    padding: 2rem;
-    border-radius: 15px;
-    box-shadow: 0px 5px 20px rgba(0,0,0,0.08);
-    transition: 0.3s ease;
-    border-left: 6px solid #87b5e9;
-    cursor: pointer;
+.repo-card {
+    padding: 20px;
+    border-radius: 12px;
+    border: 1px solid #ddd;
+    background: #fff;
+    transition: .3s;
 }
 
-.cert-card:hover {
+.repo-card:hover {
     transform: translateY(-5px);
-    box-shadow: 0px 10px 25px rgba(0,0,0,0.12);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
 }
 
-.cert-card h3 {
-    font-size: 1.5rem;
-    margin-bottom: 0.8rem;
-}
-
-.cert-card p {
-    font-size: 1rem;
-    margin: 0.2rem 0;
-}
-
-.btn-cert {
+.repo-card a {
     display: inline-block;
-    margin-top: 1rem;
-    padding: 0.6rem 1.2rem;
-    border-radius: 8px;
+    margin-top: 12px;
     text-decoration: none;
-    border: 2px solid #3B82F6;
-    color: black;
     font-weight: bold;
-    transition: 0.3s ease;
+    color: #0077ff;
 }
 
-.btn-cert:hover {
-    background-color: #3B82F6;
-    color: white;
-}
 
 @media (max-width: 700px) {
-
     .header {
         padding: 15px 20px;
     }
