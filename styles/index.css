@@ -195,9 +195,6 @@ span{
         margin: 1rem 0.7rem;
     }
 }
-/* -------------------------- */
-/*       HABILIDADES          */
-/* -------------------------- */
 
 .habilidades-section {
     padding: 5rem 9%;
@@ -283,10 +280,6 @@ span{
 .hab-card:nth-child(3) { transition-delay: .3s; }
 .hab-card:nth-child(4) { transition-delay: .4s; }
 
-/* -------------------------- */
-/*        SOFT SKILLS         */
-/* -------------------------- */
-
 .softskills-section {
     padding: 5rem 9%;
     background-color: #DCE3EB;
@@ -331,7 +324,6 @@ span{
     font-weight: 600;
 }
 
-/* Reveal Animation */
 .soft-card.reveal {
     opacity: 0;
     transform: translateY(40px);
