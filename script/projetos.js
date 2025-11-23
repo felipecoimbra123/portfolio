@@ -4,8 +4,20 @@ async function loadRepos() {
     const projetos = [
         {
             name: "Social Picture",
-            description: "Aplicação para o enfrentamento da desvalorização da arte fotográfica no Brasil",
+            description: "Aplicação para o enfrentamento da desvalorização da arte fotográfica no Brasil.",
             url: "https://github.com/felipecoimbra123/projeto-profissional",
+            langs: ["html", "css", "javascript"]
+        },
+        {
+            name: "Aulex",
+            description: "Plataforma de gestão de aulas, desenvolvida para facilitar a interação entre alunos, professores e pedagogos.",
+            url: "https://github.com/felipecoimbra123/Aulex.git",
+            langs: ["html", "css", "javascript"]
+        },
+        {
+            name: "loja-loja",
+            description: "Loja virtual em que é possível visualizar e fazer a compra de diversos produtos e serviços místicos.",
+            url: "https://github.com/felipecoimbra123/loja-loja-.git",
             langs: ["html", "css", "javascript"]
         }
     ];

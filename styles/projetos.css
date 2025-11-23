@@ -73,8 +73,6 @@ body {
     padding: 0 20px;
 }
 
-/* ---- ESTILIZAÇÃO DOS CARDS ---- */
-
 .repos-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
@@ -97,7 +95,7 @@ body {
     transform: translateY(-6px);
     box-shadow: 0 6px 24px rgba(0,0,0,0.12);
 }
-
+    
 .card h2 {
     font-size: 20px;
     margin-bottom: 10px;
