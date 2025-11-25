@@ -8,7 +8,8 @@ No portfólio você vai encontrar:
   - Certificações: uma área dedicada aos cursos e formações que contribuíram para minha evolução técnica.
   - Contato: formas diretas de me encontrar, seja para oportunidades, networking ou colaborações.
 
-Acesse aqui: https://portfolio-felipe-five.vercel.app/
+🔗 Acesse meu portfólio aqui:
+👉 https://portfolio-felipe-five.vercel.app/
 
 ## Referências de Portfólios inspiradores
 
