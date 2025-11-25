@@ -1,8 +1,8 @@
 # Felipe Coimbra - Portfólio
 
-# Referências de Portfólios inspiradores
+## Referências de Portfólios inspiradores
 
-## 1. Rhuan Bello
+### 1. Rhuan Bello
 https://www.rhuanbello.com/  
 **Análise:**  
 - Design muito limpo e profissional, com boa tipografia e uso sutil de cores.  
@@ -12,7 +12,7 @@ https://www.rhuanbello.com/
 
 ---
 
-## 2. Tymur Rozhkovskyi
+### 2. Tymur Rozhkovskyi
 https://portfolio-gold-eight-qizlzpg6sz.vercel.app/  
 **Análise:**  
 - Visual moderno e minimalista, provavelmente usando algum framework moderno (Next / React) — dá uma sensação atual e técnica.  
@@ -20,7 +20,7 @@ https://portfolio-gold-eight-qizlzpg6sz.vercel.app/
 - Experiência de navegação fluida: normalmente esses portfólios têm rolagem suave ou transições que não atrapalham o visitante.  
 - Ideal para inspiração em portfólios de desenvolvedor júnior/pleno: ele mostra projetos, mas mantém o layout simples e direto.
 
-## 3. Exemplo de Portfólio da Lista da Hostinger — Bruno Simon (no artigo da Hostinger)
+### 3. Exemplo de Portfólio da Lista da Hostinger — Bruno Simon (no artigo da Hostinger)
 https://www.hostinger.com/br/tutoriais/portfolio-desenvolvedor-web  
 **Análise:**  
 - O artigo mostra vários portfólios muito criativos, como o do **Bruno Simon**, que tem animações 3D interativas: isso mostra como se destacar visualmente sem perder usabilidade.
