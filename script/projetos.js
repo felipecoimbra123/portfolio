@@ -23,6 +23,7 @@ async function loadRepos() {
     ];
 
     const iconMap = {
+        bootstrap: `<i class="devicon-bootstrap-plain colored"></i>`,
         html: `<i class="devicon-html5-plain colored"></i>`,
         css: `<i class="devicon-css3-plain colored"></i>`,
         javascript: `<i class="devicon-javascript-plain colored"></i>`,

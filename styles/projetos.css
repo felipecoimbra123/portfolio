@@ -73,6 +73,15 @@ body {
     padding: 0 20px;
 }
 
+.span-subtitulo {
+    display: block;
+    margin-top: 15px;
+    font-size: 15px;
+    font-weight: 600;
+    color: red;
+    opacity: 0.9;
+}
+
 .repos-container {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
