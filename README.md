@@ -1,8 +1,19 @@
 # Felipe Coimbra - Portfólio
 
-# Referências de Portfólios inspiradores
+Desenvolvi meu portfólio com o objetivo de apresentar minha trajetória, minhas habilidades e os principais projetos que construí ao longo do meu aprendizado. Ele foi pensado para ser simples, direto e funcional, priorizando boa experiência do usuário, organização das informações e um visual limpo. Além disso, mantenho o portfólio em constante atualização, novos projetos e melhorias visuais estão sendo adicionados regularmente.
 
-## 1. Rhuan Bello
+No portfólio você vai encontrar:
+  - Seção Sobre mim: apresento um pouco da minha jornada na tecnologia, meus interesses profissionais e meus objetivos como desenvolvedor.
+  - Projetos: uma galeria dos meus trabalhos mais relevantes, com descrições claras, tecnologias utilizadas e links para os repositórios.
+  - Certificações: uma área dedicada aos cursos e formações que contribuíram para minha evolução técnica.
+  - Contato: formas diretas de me encontrar, seja para oportunidades, networking ou colaborações.
+
+🔗 Acesse meu portfólio aqui:
+👉 https://portfolio-felipe-five.vercel.app/
+
+## Referências de Portfólios inspiradores
+
+### 1. Rhuan Bello
 https://www.rhuanbello.com/  
 **Análise:**  
 - Design muito limpo e profissional, com boa tipografia e uso sutil de cores.  
@@ -12,7 +23,7 @@ https://www.rhuanbello.com/
 
 ---
 
-## 2. Tymur Rozhkovskyi
+### 2. Tymur Rozhkovskyi
 https://portfolio-gold-eight-qizlzpg6sz.vercel.app/  
 **Análise:**  
 - Visual moderno e minimalista, provavelmente usando algum framework moderno (Next / React) — dá uma sensação atual e técnica.  
@@ -20,7 +31,7 @@ https://portfolio-gold-eight-qizlzpg6sz.vercel.app/
 - Experiência de navegação fluida: normalmente esses portfólios têm rolagem suave ou transições que não atrapalham o visitante.  
 - Ideal para inspiração em portfólios de desenvolvedor júnior/pleno: ele mostra projetos, mas mantém o layout simples e direto.
 
-## 3. Exemplo de Portfólio da Lista da Hostinger — Bruno Simon (no artigo da Hostinger)
+### 3. Exemplo de Portfólio da Lista da Hostinger — Bruno Simon (no artigo da Hostinger)
 https://www.hostinger.com/br/tutoriais/portfolio-desenvolvedor-web  
 **Análise:**  
 - O artigo mostra vários portfólios muito criativos, como o do **Bruno Simon**, que tem animações 3D interativas: isso mostra como se destacar visualmente sem perder usabilidade.
