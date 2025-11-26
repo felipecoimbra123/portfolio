@@ -6,19 +6,22 @@ async function loadRepos() {
             name: "Social Picture",
             description: "Aplicação para o enfrentamento da desvalorização da arte fotográfica no Brasil.",
             url: "https://github.com/felipecoimbra123/projeto-profissional",
-            langs: ["html", "css", "javascript"]
+            langs: ["html", "css", "javascript"],
+            image: '/assets/foto-social-picture.png'
         },
         {
             name: "Aulex",
             description: "Plataforma de gestão de aulas, desenvolvida para facilitar a interação entre alunos, professores e pedagogos.",
             url: "https://github.com/felipecoimbra123/Aulex.git",
-            langs: ["html", "css", "javascript"]
+            langs: ["html", "css", "javascript"],
+            image: '/assets/foto-aulex.png'
         },
         {
             name: "loja-loja",
             description: "Loja virtual em que é possível visualizar e fazer a compra de diversos produtos e serviços místicos.",
             url: "https://github.com/felipecoimbra123/loja-loja-.git",
-            langs: ["html", "css", "javascript"]
+            langs: ["html", "css", "javascript"],
+            image: '/assets/loja-loja.png'
         }
     ];
 
@@ -40,17 +43,17 @@ async function loadRepos() {
             .join(" ");
 
         card.innerHTML = `
+            <img src="${proj.image}" alt="${proj.name}" class="card-img">
+        
             <h2>${proj.name}</h2>
             <p>${proj.description}</p>
-
+        
             <div class="card-footer">
-                <div class="langs">
-                    ${icons}
-                </div>
-
+                <div class="langs">${icons}</div>
                 <a href="${proj.url}" target="_blank">Ver projeto</a>
             </div>
         `;
+        
 
         reposContainer.appendChild(card);
     });
